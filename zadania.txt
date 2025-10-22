@@ -1,0 +1,5 @@
+1 Utworzyć nowy branch o dowolnej nazwie (uwzględnić nowe zwierze do dodania)
+2. Na nowym branchu dodać kolejną sekcję (pierwszą zostawić) i umieścić w niej strukturę nagłówka, zdjęcia z pliku (pobrać i umieścić w ktalogu img) 
+i opisu
+3. Wysłąć zmiany do repozytorium lokalnego
+4. Nowy branch wysłać do repozytorium github
