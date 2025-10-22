@@ -1,5 +1,5 @@
 # ZOO online
-**ZOO online** to prosta internetowa prezentująca wirtualne zoo.
+**ZOO online** to prosta internetowa prezentująca wirtualne zoo, dostępna na [GitHub_Pages](wworonecki.github.io/Zoo/)
 
 ## Spis treści
 - [Opis projektu](#opis-projektu)
